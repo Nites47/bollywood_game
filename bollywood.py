@@ -1,3 +1,7 @@
+import numpy as np
+import pandas as pd
+import random as rn
+import string as st
 #Bollywood
 file = 'E:\Python\indian_movies.csv'
 data = pd.read_csv(file)
